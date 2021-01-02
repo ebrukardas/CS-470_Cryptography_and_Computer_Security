@@ -1,0 +1,4 @@
+https://github.com/gabrielmbmb/aes/blob/master/aes/aes.py
+https://medium.com/@yavuzunver/aes-ile-veri-şifreleme-daef840f10f3
+https://www.tutorialspoint.com/cryptography/advanced_encryption_standard.htm
+https://searchsecurity.techtarget.com/definition/Advanced-Encryption-Standard
